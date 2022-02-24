@@ -1,0 +1,11 @@
+Groupe de toxines	Résultat : Code paramètre	Résultat : Libellé méthode	Résultat : Libellé fraction	Seuil réglementaire	Résultat : Symbole unité de mesure associé au quadruplet
+Toxines lipophiles	AO+DTXs+PTXs-TEFs	ANSES PBM BM LSA_INS-0147	Chair totale égouttée	160	µg/kg
+Toxines lipophiles	AZAs-TEFs	ANSES PBM BM LSA_INS-0147	Chair totale égouttée	160	µg/kg
+Toxines lipophiles	YTXs-TEFs	ANSES PBM BM LSA_INS-0147	Chair totale égouttée	3750	µg/kg
+Toxines paralysantes	TOXPSP	ANSES LNRBM-PSP 01	Chair totale égouttée	800	µg/kg
+Toxines paralysantes	TOXPSP	Test souris PSP / quantification en équ. STX	Chair totale égouttée	800	µg/kg
+Toxines amnésiantes	ASP	CL/UV toxines amnésiantes	Chair totale égouttée	20	mg/kg
+Toxines amnésiantes	ASP	ANSES LNRBM-ASP 01	Chair totale égouttée	20	mg/kg
+Toxines amnésiantes	ASP	CL/UV toxines amnésiantes	Muscle + gonade	4.6	mg/kg
+Toxines amnésiantes	ASP	CL/UV toxines amnésiantes	Muscle	4.6	mg/kg
+Toxines amnésiantes	ASP	ANSES LNRBM-ASP 01	Muscle + gonade	4.6	mg/kg
