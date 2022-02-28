@@ -11,4 +11,4 @@ To run this R code you need to download the input data in your desktop and impor
 ## Output data
 The output data of this code consists of two tables containing the number and duration of closures for each production area per week (1st table) and per fishing season (2nd table). 
 # Licence
-This project is licensed under the terms of the GNU GENERAL PUBLIC LICENSE. 
+This project is licensed under the terms of the GNU General Public License v3.0 license. 
