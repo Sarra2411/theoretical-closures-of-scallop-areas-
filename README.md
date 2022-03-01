@@ -10,5 +10,5 @@ Input data used in this code are associated to this code. It concerns data on ph
 To run this R code you need to download the input data in your desktop and import it into your R space. The package _'dplyr'_ is required to run the code, if you don't have it you need to install it using ``install.packages("dplyr")``.  
 ## Output data
 The output data of this code consists of two tables containing the number and duration of closures for each production area per week (1st table) and per fishing season (2nd table). 
-# Licence
+# License
 The code of this project is licensed under the terms of the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) license, and the input data (REPHYTOX) is licensed under the terms of the [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0/) license. 
