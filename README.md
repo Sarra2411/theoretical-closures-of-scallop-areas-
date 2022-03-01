@@ -1,4 +1,5 @@
 # Theoretical closures of scallop fishing areas
+[![DOI](https://zenodo.org/badge/463119242.svg)](https://zenodo.org/badge/latestdoi/463119242)
 ## Description
 The aim of this R code is to simulate the closures (number and duration) of scallops fishing areas due to shellfish contaminations by harmful algal blooms. This R script uses the _in situ_ dataset from the French monitoring network
 REPHYTOX (French Monitoring Network for Phycotoxins in marine organisms) and information related to the monitoring and the management of scallops fishery in the Eastern English Channel to generate ***theoretical closures*** of the production areas. The processing consists of two main steps: 
